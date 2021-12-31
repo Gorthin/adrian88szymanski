@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrian Szymanski</h1>
-<h3 align="center">Self-taught Python Enthusiast / Python Basic from Poland</h3>
+<h3 align="center">Self-taught Python Enthusiast / Python Basic / Mechanical Design from Poland</h3>
 
 - 💻 I mainly use **Python 3.x** and **Django**
 
-- 🌱 I’m currently learning **Python 3.x** ,  **Robot Framework**
+- 🌱 I’m currently learning **Python 3.x** ,  **Robot Framework**, **LTE Architecture**, **ISTQB syllabus**
+
+- 💞️ I would be happy to collaborate on any related project where I can help and gain experience.
 
 - 💬 Ask me about **Python, Mechanical Design**
 
@@ -11,7 +13,7 @@
 
 - 📄 This is my Portfolio: **https://github.com/adrian88szymanski**
 - ⚡ About me: 
-- **I love developing my skills and learning new things.
+<h4 align="left">**I love developing my skills and learning new things.
 For this reason, I started to learn programming using the Python language.
 
 While learning programming I liked it a lot, so much so that I thought about changing my career path. Encountering errors and problems while programming motivates me to solve them, and finishing a working script makes me extremely happy.
@@ -37,7 +39,7 @@ I love the complexity and beauty of engineering. I like challenges and learning 
 
 Currently, I want to connect my professional career with Finite Element Analysis (FEA) and Python. For this reason, I attend trainings, read literature and carry out practical projects in the comfort of my home.
 
-Privately, a lover of space and sports.**
+Privately, a lover of cosmos space, sports (bike, hiking) and dog (currently I have a White Swiss Shepard named Riko).**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
