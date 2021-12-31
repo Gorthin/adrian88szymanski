@@ -11,7 +11,7 @@
 
 - 📄 This is my Portfolio: **https://github.com/adrian88szymanski**
 - ⚡ About me: 
-**I love developing my skills and learning new things.
+- **I love developing my skills and learning new things.
 For this reason, I started to learn programming using the Python language.
 
 While learning programming I liked it a lot, so much so that I thought about changing my career path. Encountering errors and problems while programming motivates me to solve them, and finishing a working script makes me extremely happy.
