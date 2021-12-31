@@ -31,6 +31,15 @@
             width="30"
         >
     </a>
+    <a href="Gorthin#2285" target="_blank">
+        <img
+            align="center"
+            src="https://www.svgrepo.com/show/353655/discord-icon.svg"
+            alt="Discord"
+            height="30"
+            width="30"
+        >
+    </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
