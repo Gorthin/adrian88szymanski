@@ -21,18 +21,22 @@ While learning programming I liked it a lot, so much so that I thought about cha
 Worked with:
 - Python 3.x
 - Django 2.x
+- HTML
 - GIT
 
 Other module:
 Pygame, matplotlib, plotly, os.path, requests, BeautifulShop, selenium, OPENPYXL, PyPDF2, python-docx, JSON, csv, time, datatime, SMTP, pillow, pyautogui
+   
 Other: Linux, Bash, PyCharm.
 
 My goal:
-- Back-End (Python) Developer or Software Terster
+- Back-End (Python) Developer or Software Tester
 
-I am currently learning: application testing using Robot Framework module.
+I am currently learning: application testing using Robot Framework module. I am interested in Machine Learning and AI.
 
 I am comfortable working with Linux operating system and terminal writing simple scripts (Bash). I am looking to start a career as a software developer or tester using the Python language.
+
+Also:
 
 I am a professional mechanical engineer.
 I love the complexity and beauty of engineering. I like challenges and learning new things. I try my best to understand the problems I am solving. I'm always looking for a challenge. I love solving difficult problems and learning new things at the same time.
@@ -89,14 +93,6 @@ Privately, a lover of cosmos space, sports (bike, hiking) and dog (currently I h
             height="40"
         >
     </a>    
-    <a href="hhttps://www.w3schools.com/css/" target="_blank">
-        <img
-            src="https://i.imgur.com/brUaAJs.png"
-            alt="css"
-            width="42"
-            height="42"
-        >
-    </a>
     <a href="https://www.python.org/" target="_blank">
         <img
             src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
