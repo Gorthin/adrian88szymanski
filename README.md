@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adrian Szymanski</h1>
-<h3 align="center">Self-taught Python Enthusiast / Python Basic / Mechanical Design from Poland</h3>
+<h1 align="center">Hi 👋, I'm Adrian Szymański</h1>
+<h3 align="center">Self-taught Python Enthusiast / Python Basic / Mechanical Design / FEM(Finite element method) Enthusiast</h3>
 
-- 💻 I mainly use **Python 3.x** and **Django**
+- 💻 I mainly use **Python 3.x**
 
-- 🌱 I’m currently learning **Python 3.x** ,  **Robot Framework**, **LTE Architecture**, **ISTQB syllabus**
+- 🌱 I’m currently learning **Python 3.x** , **Robot Framework**, **Selenium***, **LTE/5G Architecture**, **ISTQB syllabus**
 
 - 💞️ I would be happy to collaborate on any related project where I can help and gain experience.
 
@@ -14,27 +14,18 @@
 - 📄 This is my Portfolio: **https://github.com/adrian88szymanski**
 - ⚡ About me: 
 <h4 align="left">**I love developing my skills and learning new things.
-For this reason, I started to learn programming using the Python language.
 
-While learning programming I liked it a lot, so much so that I thought about changing my career path. Encountering errors and problems while programming motivates me to solve them, and finishing a working script makes me extremely happy.
-
-Worked with:
-- Python 3.x
-- Django 2.x
-- HTML
-- GIT
-
-Other module:
-Pygame, matplotlib, plotly, os.path, requests, BeautifulShop, selenium, OPENPYXL, PyPDF2, python-docx, JSON, csv, time, datatime, SMTP, pillow, pyautogui
+I am currently working as an Integration and Test Engineer. I am interested in Machine Learning and Numerical Computing (Finite Element Method), I spend my free time training in this field. I am at the beginning of the road, but I hope that the willingness to learn will help me achieve my goal.
    
-Other: Linux, Bash, PyCharm.
+Main: Python, Selenium
+Other: Git, Linux, Bash, PyCharm, VSCode
 
 My goal:
-- Back-End (Python) Developer or Software Tester
+- Back-End (Python) Developer / Machine Learning Engineer developer / Numerical Computing (Finite Element Method) Developer
 
 I am currently learning: application testing using Robot Framework module. I am interested in Machine Learning and AI.
 
-I am comfortable working with Linux operating system and terminal writing simple scripts (Bash). I am looking to start a career as a software developer or tester using the Python language.
+I am comfortable working with Linux operating system and terminal writing simple scripts (Bash).
 
 Also:
 
@@ -65,7 +56,7 @@ Privately, a lover of cosmos space, sports (bike, hiking) and dog (currently I h
             width="30"
         >
     </a>
-    <a href="Gorthin#2285" target="_blank">
+    <a href="https://discord.com/channels/@Gorthin#2285" target="_blank">
         <img
             align="center"
             src="https://www.svgrepo.com/show/353655/discord-icon.svg"
