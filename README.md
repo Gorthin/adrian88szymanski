@@ -41,7 +41,7 @@ Privately, a lover of cosmos space, sports (bike, hiking) and dog (currently I h
     <a href="https://www.linkedin.com/in/adrian-sz/" target="_blank">
         <img
             align="center"
-            src="https://image.flaticon.com/icons/png/512/174/174857.png"
+            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
             alt="Linkedin"
             height="30"
             width="30"
