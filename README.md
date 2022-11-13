@@ -76,10 +76,10 @@ Privately, a lover of cosmos space, sports (bike, hiking) and dog (currently I h
             height="40"
         >
     </a>
-    <a href="https://www.w3schools.com/html/" target="_blank">
+    <a href="https://www.selenium.dev/" target="_blank">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
+            src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400"
+            alt="selenium"
             width="40"
             height="40"
         >
